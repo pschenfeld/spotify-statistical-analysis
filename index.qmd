@@ -1,1 +1,29 @@
-hi
+---
+title: "Statistical Analysis of Spotify Genres"
+author: 
+  - Patricia Schenfeld
+  - Marion Bauman
+  - Kendall Gilbert
+  - Hannah Kim
+format: html
+link-external-newwindow: true
+page-layout: full
+website:
+  back-to-top-navigation: true
+date: December 6, 2023
+---
+
+# Introduction
+This final project encompasses our work and learning in our Probabilistic Modeling and Statistical Computing course as part of our MS in Data Science and Analytics degree program. For our topic, we chose to look into the audio features of different Spotify genres, applying different statistical tests to discern how certain audio features may or may not contribute to the definition of certain genres.
+
+# Presentation Slideshow
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIK1u81RdzhKlLi1ZMSbOXT4WkgQyAYJyt-gwjdPtW9xpvKT0pxzhFT9mPsz037Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+# Project Report
+<object data="report.pdf" type="application/pdf" width="1000" height="800">
+    <p>PDF cannot be displayed. <a href="report.pdf">Download</a> instead.</p>
+</object>
+
+
+
