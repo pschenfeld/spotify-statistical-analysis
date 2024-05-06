@@ -11,6 +11,7 @@ page-layout: full
 website:
   back-to-top-navigation: true
 date: December 6, 2023
+theme: cerulean
 ---
 
 # Introduction
@@ -21,6 +22,7 @@ This final project encompasses our work and learning in our Probabilistic Modeli
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSIK1u81RdzhKlLi1ZMSbOXT4WkgQyAYJyt-gwjdPtW9xpvKT0pxzhFT9mPsz037Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 # Project Report
+
 <object data="report.pdf" type="application/pdf" width="1000" height="800">
     <p>PDF cannot be displayed. <a href="report.pdf">Download</a> instead.</p>
 </object>
