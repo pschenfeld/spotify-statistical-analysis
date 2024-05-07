@@ -11,7 +11,7 @@ page-layout: full
 website:
   back-to-top-navigation: true
 date: December 6, 2023
-theme: cerulean
+theme: lumen
 ---
 
 # Introduction
