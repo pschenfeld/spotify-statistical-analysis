@@ -1,5 +1,6 @@
 ---
 title: "Statistical Analysis of Spotify Genres"
+subtitle: Probabalistic Modeling and Statistical Computing Final Project
 author: 
   - Patricia Schenfeld
   - Marion Bauman
